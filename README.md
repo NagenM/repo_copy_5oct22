@@ -26,4 +26,4 @@ Each module when released will be available in its own folder on the [this repos
 ![Trigger the open notebook dialog on Google Colab](https://drive.google.com/uc?id=1xwJOBKgiaorOdY8rkqcIweiFOxHJ5VHo) 
 
 2. Use the github access tab and add the organisation repository you are looking for and allow access to private repositories then choose the notebook you want open;
-![Choose the notebook you want open](https://drive.google.com/uc?id=1ujuaO1KJ5AgUxKQwAwyENAvgfzNcaaqU)
+![Choose the notebook you want open](https://drive.google.com/uc?id=15TQKvwJekCaWnkLkJ0I0MfJwF5sLrBCl)
